@@ -9,7 +9,7 @@ I like understanding how things work, proposing improvements and building with p
 
 ## Selected work
 
-- [InfiniteZero](https://github.com/InfiniteZeroFoundation/DevNet): Python/Web3 SDK and daemon development, local testnet testing, and CI automation that I proposed and am developing.
+- [InfiniteZero](https://github.com/InfiniteZeroFoundation/DevNet): Python/Web3 SDK, daemon, local testnet testing, and CI automation.
 - [BitmapForge](https://github.com/Santiagocetran/BitmapForge): a JavaScript/React tool for creating bitmap animations from 3D models.
 - AlterMundi: three years contributing to [WANDA](https://github.com/AlterMundi/wanda-telescope), [ProyectoIncubadora](https://github.com/AlterMundi-MonitoreoyControl/Proyecto-Incubadora) and [44mesh](https://github.com/AlterMundi/44mesh).
 
